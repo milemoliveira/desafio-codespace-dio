@@ -6,7 +6,7 @@ Repositório criado para resolução do desafio da etapa de "Ferramentas do GitH
 
 ----
 
-### **2. Repetindo textos**
+### **[2. Repetindo textos](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/repeticao.py)**
 **Descrição:** solicitar uma string e um número inteiro ao usuário. O programa deve retornar a string repetida o número de vezes especificado pelo usuário
 
 ----
