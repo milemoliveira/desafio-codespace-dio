@@ -11,8 +11,8 @@ Repositório criado para resolução do desafio da etapa de "Ferramentas do GitH
 
 ----
 
-### **3. Operações matemáticas simples**
-**Descrição:** Solicitar ao usuário dois números e realizar as seguintes operações matemáticas: soma, subtração, multiplicação e divisão. O programa deve retornar os resultados de cada operação.
+### **[3. Operações matemáticas simples](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/opMat.py)**
+**Descrição:** Solicitar ao usuário dois números inteiros e qual operação deseja. O programa realiza as seguintes operações matemáticas: soma, subtração, multiplicação e divisão. O programa deve retornar o resultado de cada operação quando solicitado. 
 
 ----
 
