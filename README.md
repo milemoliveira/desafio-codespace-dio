@@ -21,12 +21,12 @@ Repositório criado para resolução do desafio da etapa de "Ferramentas do GitH
 
 ----
 
-### **[5. Calcular média]((https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/media.py)**  
+### **[5. Calcular média](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/media.py)**  
 **Descrição:** Solicitar ao usuário três notas e calcular a média aritmética dessas notas, retornando o resultado final.
 
 ----
 
-### **[6. Verificar palíndromos]((https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/palindromo.py)**
+### **[6. Verificar palíndromos](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/palindromo.py)**
 **Descrição:** Solicitar ao usuário que insira uma palavra e verificar se ela é um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente. Retornar o resultado da verificação.
 
 ----
