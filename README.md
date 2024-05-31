@@ -16,7 +16,7 @@ Repositório criado para resolução do desafio da etapa de "Ferramentas do GitH
 
 ----
 
-###**[4. Verificar números pares e ímpares](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/parImpart.py)**
+### **[4. Verificar números pares e ímpares](https://github.com/milemoliveira/desafio-codespace-dio/blob/main/desafios/parImpart.py)**
 **Descrição:** Solicitar ao usuário que insira um número e verificar se o número é par ou ímpar, retornando o resultado da verificação.
 
 ----
